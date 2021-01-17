@@ -2,15 +2,15 @@
 
 ## 147 Republican Traitors and Contributors
 
-This is a dataset of all the 147 Republican traitors and their contributors that voted to overturn the election results in Congress. This is the raw aggregated data, please feel free to use.
+This is a dataset of all the 147 Republican traitors and their contributors that voted to overturn the election results in Congress. This is the raw data with some of it summarized, please feel free to use.
 
-The source data is from Open Secrets and is organized into two files:
+The source data is from Open Secrets and is organized into three files:
 
 1. CSV of all traitors - 147_traitors.csv
 2. CSV of all contributors to the traitors, raw data - 147_contributors.csv
 3. CSV of sorted top list of all contributors - 147_contributors_top_list.csv
 
-## Goal
+## The Mission
 
 To make sure these traitors lose their positions in Congress. 
 
