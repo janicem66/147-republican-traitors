@@ -12,20 +12,23 @@ The source data is from Open Secrets and is organized into two files:
 
 ## Goal
 
-To make sure these traitors lose their positions in Congress.
+To make sure these traitors lose their positions in Congress. 
 
-1. Contact them - make your voice be heard
-2. Contact contributors - drain their campaign cash
+1. Contact the traitors - make your voice be heard
+2. Contact contributors - make them pledge to not fund these traitors
 3. Get ready for their upcoming elections
 4. Help find more ways to get them out of Congress
 
-We do not support any use of violence or threats of violence in this campaign.
+We do not support any use of violence or threats of violence in this campaign. We support both Democrat and Republican challengers.
 
 ## To Dos
 
 - [ ] build script that converts csv files to md files
 - [ ] get photos of the traitors
 - [ ] add traitors social and contact information to 147_traitors.csv
+- [ ] add twitter handles to Contributor Top 100 List
+- [ ] build twitter post for all traitors and their top contributors
+- [ ] build a new csv dataset for contributors information - twitter, facebook, email, phone
 - [x] summarize the contributors (147_contributors.csv) into a top list md file
 
 ## Top 100 Contributors to the Traitors
