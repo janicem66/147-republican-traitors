@@ -25,9 +25,9 @@ We do not support any use of violence or threats of violence in this campaign. W
 
 - [ ] build script that converts csv files to md files
 - [ ] get photos of the traitors
-- [ ] add traitors social and contact information to 147_traitors.csv
+- [x] add traitors social and contact information to 147_traitors.csv
 - [ ] add twitter handles to Contributor Top 100 List
-- [ ] build twitter post for all traitors and their top contributors
+- [ ] build twitter post for all traitors that include their top contributors
 - [ ] build a new csv dataset for contributors information - twitter, facebook, email, phone
 - [x] summarize the contributors (147_contributors.csv) into a top list md file
 
