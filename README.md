@@ -10,9 +10,11 @@ The source data is from Open Secrets and is organized into three files:
 2. CSV of all contributors to the traitors, raw data - 147_contributors.csv
 3. CSV of sorted top list of all contributors - 147_contributors_top_list.csv
 
+Contributions data is not available for newly elected members of Congress.
+
 ## The Mission
 
-To make sure these traitors lose their positions in Congress. 
+To make sure these traitors lose their positions in Congress.
 
 1. Contact the traitors - make your voice be heard
 2. Contact contributors - make them pledge to not fund these traitors
@@ -20,6 +22,14 @@ To make sure these traitors lose their positions in Congress.
 4. Help find more ways to get them out of Congress
 
 We do not support any use of violence or threats of violence in this campaign. We support both Democrat and Republican challengers.
+
+## Our Demands to the 147 Traitors
+
+1. Declare @JoeBiden was freely and fairly elected
+2. Declare that you know all claims of election fraud and irregularities to be false
+3. Fully repudiate Trump and Trumpism
+4. Demand those Republicans like @tedcruz and @HawleyMO resign immediately
+5. Senators vote to impeach Trump
 
 ## To Dos
 
@@ -33,8 +43,8 @@ We do not support any use of violence or threats of violence in this campaign. W
 
 ## Top 100 Contributors to the Traitors
 Rank | Contributor | Twitter | Amount
------------- | ------------- | ------------- | ------------- 
-1	|	American Bankers Assn	|	@ABABankers	|	$1,095,785
+------------ | ------------- | ------------- | -------------
+1 |	American Bankers Assn	|	@ABABankers	|	$1,095,785
 2	|	National Assn of Realtors	|	@NARStore	|	$1,073,620
 3	|	Majority Cmte PAC	|		|	$1,060,000
 4	|	House Freedom Fund	|		|	$1,052,229
