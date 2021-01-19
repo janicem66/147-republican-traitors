@@ -33,6 +33,8 @@ If our demands are met your name will be cleared as a traitor.
 4. Demand those Republicans like @tedcruz and @HawleyMO resign immediately
 5. Senators vote to impeach Trump
 
+Mitch McConnell on the Senate floor 2021: "The mob was fed lies. They were provoked by the president and other powerful people"
+
 The demands are inspired by @reedgalen
 
 ## To Dos
