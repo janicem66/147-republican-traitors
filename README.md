@@ -25,6 +25,8 @@ We do not support any use of violence or threats of violence in this campaign. W
 
 ## Our Demands to the 147 Traitors
 
+If our demands are met your name will be cleared as a traitor.
+
 1. Declare @JoeBiden was freely and fairly elected
 2. Declare that you know all claims of election fraud and irregularities to be false
 3. Fully repudiate Trump and Trumpism
@@ -300,7 +302,8 @@ Cynthia Lummis | Wyo. | Senate| [Donor List](https://www.opensecrets.org/members
 ## Contact
 
 If want to help contribute to the repo or email us
-[147projectorg@gmail.com](147projectorg@gmail.com)
+email: [147projectorg@gmail.com](147projectorg@gmail.com)
+twitter: [@147project](https://twitter.com/147project)  
 
 ## References
 
