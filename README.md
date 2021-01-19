@@ -44,7 +44,7 @@ The demands are inspired by @reedgalen
 
 If our demands are met your company will be cleared as supporters of the traitors.
 
-1. Immediately announce that you will no longer fund any of the 147 Traitors.
+1. Immediately announce that will you NEVER contribute to any of the 147 traitors who voted to overturn the election.
 
 ## To Dos
 
