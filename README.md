@@ -42,9 +42,9 @@ The demands are inspired by @reedgalen
 
 ## Our Demands to the Traitors Contributors/Donors
 
-If our demands are met your company will be cleared as supporting the traitors.
+If our demands are met your company will be cleared as supporters of the traitors.
 
-1. Immediately annouce that you will no longer fund any of the 147 Traitors.
+1. Immediately announce that you will no longer fund any of the 147 Traitors.
 
 ## To Dos
 
