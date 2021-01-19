@@ -1,5 +1,8 @@
 # 147 Project
 
+Washington Post -  [Lawmakers who objected to election results have been cut off from 20 of their 30 biggest corporate PAC donors](https://www.washingtonpost.com/business/2021/01/19/gop-corporate-pac-funding/)
+
+
 ## 147 Republican Traitors and Contributors
 
 This is a dataset of all the 147 Republican traitors and their contributors that voted to overturn the election results in Congress. This is the raw data with some of it summarized, please feel free to use.
@@ -33,9 +36,15 @@ If our demands are met your name will be cleared as a traitor.
 4. Demand those Republicans like @tedcruz and @HawleyMO resign immediately
 5. Senators vote to impeach Trump
 
-Mitch McConnell on the Senate floor 2021: "The mob was fed lies. They were provoked by the president and other powerful people"
+Mitch McConnell on the Senate floor Jan 19th, 2021: "The mob was fed lies. They were provoked by the president and other powerful people"
 
 The demands are inspired by @reedgalen
+
+## Our Demands to the Contributor/Donors to the Traitors
+
+If our demands are met your company will be cleared as supporting the traitors.
+
+1. Immediately annouce that you will no longer fund any of the 147 Traitors.
 
 ## To Dos
 
