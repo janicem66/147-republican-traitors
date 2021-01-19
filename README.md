@@ -40,7 +40,7 @@ Mitch McConnell on the Senate floor Jan 19th, 2021: "The mob was fed lies. They 
 
 The demands are inspired by @reedgalen
 
-## Our Demands to the Traitors Contributors/Donors
+## Our Demands to the Contributors/Donors Who Fund the Traitors
 
 If our demands are met your company will be cleared as supporters of the traitors.
 
